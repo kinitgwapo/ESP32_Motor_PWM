@@ -19,7 +19,8 @@ IN1-4 are inputs that corresponds to OUT1-4. IN1-2 controls OUT1-2 while IN3-4 c
 
 Circuit Diagram:
 
-<img width="1188" height="681" alt="Circuit Diagram" src="https://github.com/user-attachments/assets/3555e03a-14f2-4e9a-ac79-a95b510fd3f2" />
+<img width="1188" height="681" alt="Circuit Diagram" src="https://github.com/user-attachments/assets/b1536fe4-8b30-48b8-a11c-03a45cc560f9" />
+
 
 Button Input:
 
