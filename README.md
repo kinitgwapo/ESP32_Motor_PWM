@@ -21,9 +21,11 @@ Circuit Diagram:
 
 <img width="1188" height="681" alt="Circuit Diagram" src="https://github.com/user-attachments/assets/afa4faa9-2d58-4a06-8559-35846c84d5c4" />
 
+
 Button Input:
 
 <img width="2801" height="4080" alt="Button" src="https://github.com/user-attachments/assets/6b11da3f-bc23-44bc-a591-64e333898bf7" />
+
 
 Potentiometer Input:
 
